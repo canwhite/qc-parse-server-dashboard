@@ -1,2 +1,12 @@
-# qc-parse-server-dashboard
+## qc-parse-server-dashboard
 parse server and dashboard
+
+
+## run
+
+```
+yarn install
+
+yarn start
+
+```
