@@ -1,2 +1,2 @@
 # qc-parse-server-dashboard
-parse server and dashbpard
+parse server and dashboard
