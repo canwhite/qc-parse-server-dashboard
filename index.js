@@ -18,6 +18,7 @@ var config = {
   appId: 'myAppId',                             // appId  
   masterKey: 'myMasterKey',                     // masterKey
   fileKey: 'optionalFileKey',                   // fileKey
+  javascriptKey:"myJsKey",
   serverURL: 'http://localhost:1337/parse'      // 设置Parse服务地址
 }
 var api = new ParseServer(config);
