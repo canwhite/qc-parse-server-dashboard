@@ -10,10 +10,11 @@ parse server and dashboard
 
 Pre:需要mongodb并启动
 
-then：
-
+cnpm i 
+or:
 yarn install
 
+then:
 yarn start
 
 ```
